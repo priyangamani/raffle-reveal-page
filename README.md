@@ -27,7 +27,7 @@ Starter code with the implementation of:
 1. Get the latest version
 
 ```shell
-git clone https://github.com/KaterinaLupacheva/dashboard-layout.git MyDashboard
+git clone https://github.com/priyangamani/raffle-reveal-page MyDashboard
 cd MyDashboard
 ```
 
