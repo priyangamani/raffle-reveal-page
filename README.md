@@ -1,6 +1,6 @@
 # React Material UI Dashboard Layout template
 
-[Live-Demo](https://katerinalupacheva.github.io/dashboard-layout/)
+
 
 Starter code with the implementation of:
 
